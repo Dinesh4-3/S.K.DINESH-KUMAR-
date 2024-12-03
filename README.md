@@ -3,8 +3,10 @@
 <h3 align="center">Driven software engineer and creative problem solver</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kishore107&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kishore107&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dinesh4-3
+&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dinesh4-3
+&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -63,5 +65,5 @@
 
 <p align="center">
   
-  <img  align=top flex-grow=1 src="https://leetcode.com/u/dinesh107/" />  
+  <img  align=top flex-grow=1 src="https://leetcode.com/dinesh107/" />  
 </p>
