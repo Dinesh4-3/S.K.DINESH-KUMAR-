@@ -63,5 +63,5 @@
 
 <p align="center">
   
-  <img align=top flex-grow=1 src="https://leetcode.com/dinesh107/"/>  
+  <img align=top flex-grow=1 src="https://leetcode.com/u/dinesh107/"/>  
 </p>
