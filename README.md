@@ -1,5 +1,5 @@
 # S.K.DINESH-KUMAR-
-<h1 align="center">Hi 👋, I'm Kishore Kumar</h1>
+<h1 align="center">Hi 👋, I'm Dinesh  Kumar</h1>
 <h3 align="center">Driven software engineer and creative problem solver</h3>
 
 <div align="center">
@@ -46,13 +46,13 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/kishore._.107/?locale=en_US%2Cen_GB" target="_blank">
+  <a href="https://www.instagram.com/sk._.dinesh" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="mailto:jkishorekumar107@gmail.com" target="_blank">
+  <a href="mailto:skdineshkumar1764@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/kishore-kumar-89042b190/" target="_blank">
+  <a href="https://www.linkedin.com/in/skdineshkumar/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
@@ -63,5 +63,5 @@
 
 <p align="center">
   
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/jkishorekumar107?theme=dark&font=Nunito&ext=heatmap" />  
+  <img  align=top flex-grow=1 src="https://leetcode.com/u/dinesh107/" />  
 </p>
